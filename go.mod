@@ -3,6 +3,7 @@ module github.com/Rafaelse6/goexpert/9-APIS
 go 1.23.4
 
 require (
+	github.com/go-chi/chi v1.5.1
 	github.com/spf13/viper v1.19.0
 	golang.org/x/crypto v0.21.0
 )
